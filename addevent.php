@@ -127,7 +127,7 @@
 
 <div class="form-group">
   <label for="comment">Description:</label>
-  <textarea class="form-control" rows="5" id="comment"></textarea>
+  <textarea class="form-control" rows="5" id="comment" name="description"></textarea>
 
 </div>
 
